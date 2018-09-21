@@ -6,6 +6,7 @@ description: "Provides the catalog to the end user"
 vcsroot: "https://travis-ci.org/ianhigginbottom/appstash-frontend-catalog/"
 lifecycle: production
 tags:
+  - PIVIO
   - Angular
   - JavaScript
   - front-end
